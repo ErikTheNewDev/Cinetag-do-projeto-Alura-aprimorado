@@ -1,4 +1,4 @@
-# 🎬 [Nome do Seu Projeto: Ex: Cinetag Alura Aprimorado]
+# 🎬 Cinetag Alura Aprimorado
 
 ## ✨ Visão Geral
 
